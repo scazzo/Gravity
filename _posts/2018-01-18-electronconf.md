@@ -44,7 +44,7 @@ Grande GitHub. Parafrasando: "la selezione basata su qualità e merito non rispe
 ## Le considerazioni
 
 Non credo serva fare tante considerazioni.
-Così fa già abbastanza ridere di suo.
+Fa già abbastanza ridere di suo.
 
 Si parte dall'ipotesi, corretta, che sapere l'identità dell'autore di un talk possa influenzare le sue chance di essere accettato.
 Quando, però, il risultato non piace perchè non soddisfa uno standard arbitrario di diversità, fanculo il metodo scientifico e ignoriamo la realtà dei fatti.
