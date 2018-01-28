@@ -23,7 +23,7 @@ Come tutti, ho amiche o conoscenti che dovrebbero tagliarsi le falangi delle man
 Come tutti, ho un po' di odio per il genere umano.
 
 Il filtro alieno è quella cosa che avviene nelle soap opera scadenti,
-dove il direttore della fotografia si fa di cocaina e quindi *apre tutto* (cit.) alla
+dove il direttore della fotografia si fa di cocaina e quindi *smarmella* (cit.) alla
 [Duccio](https://it.wikipedia.org/wiki/Personaggi_di_Boris#Duccio).
 Ne risulta un effetto in cui i volti sono sfocati e risplendono di luce propria.
 Come un alieno, appunto.
@@ -31,7 +31,7 @@ O come la faccia di Barbara D'Urso a pomeriggio 5.
 Grazie al progresso scientifico e agli smartphone, il filtro alieno ora è alla portata di tutti.
 
 ![Smarmella](http://www.gossipetv.com/wp-content/uploads/2016/06/barbara-durso-pomeriggio-5-300x194.png)
-*Duccio, smarmella*
+*Duccio, apri tutto!*
 
 Sul serio, quanto si deve essere rimossi dalla realtà per essere convinti che il filtro alieno
 renda le foto più belle?
@@ -42,6 +42,7 @@ Cazzo a volte su Instagram devo guardare il nome della persona per capire chi c'
 ## Il perchè
 
 ![Utente medio di Snapchat](/assets/2018-01-27-filtro-alieno-alieni.jpg)
+<br/>
 *Utente medio di Snapchat*
 
 Ogni anno corriamo tutti a prendere l'ultimo modello di iPhone.
@@ -75,4 +76,4 @@ Forse la scienza è veramente andata troppo oltre questa volta.
 A volte un'immagine vale davvero più di mille parole.
 Quello che segue è il mio mockup per un nuovo filtro bellezza per Instagram:
 
-![Filtro geometrico](/assets/2018-01-27-filtro-alieno-forme-geometriche.jpg)
+<img src="/assets/2018-01-27-filtro-alieno-forme-geometriche.jpg" alt="Filtro Geometrico" style="max-width: 500px;"/>
