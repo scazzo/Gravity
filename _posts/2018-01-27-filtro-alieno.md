@@ -32,7 +32,7 @@ Come un alieno, appunto.
 O come la faccia di Barbara D'Urso a pomeriggio 5.
 Grazie al progresso scientifico e agli smartphone, il filtro alieno ora è alla portata di tutti.
 
-{% include image.html img="http://www.gossipetv.com/wp-content/uploads/2016/06/barbara-durso-pomeriggio-5-300x194.png" title="Duccio, apri tutto!" caption="&quot;Duccio, apri tutto!&quot;" %}
+{% include image.html imgabs="http://www.gossipetv.com/wp-content/uploads/2016/06/barbara-durso-pomeriggio-5-300x194.png" title="Duccio, apri tutto!" caption="&quot;Duccio, apri tutto!&quot;" %}
 
 Sul serio, quanto si deve essere rimossi dalla realtà per essere convinti che il filtro alieno
 renda le foto più belle?
