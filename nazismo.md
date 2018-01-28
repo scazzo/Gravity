@@ -1,6 +1,6 @@
 ---
 layout: archive
 title: "Nazismo"
-permalink: "Nazismo"
+permalink: "nazismo"
 tagline: "Cose che fanno frusciare i jimmies"
 ---
