@@ -17,8 +17,8 @@ Proprio GitHub, la stessa azienda americana che ti sta fornendo il mio bellissim
 ## La selezione
 
 Come per ogni conferenza che si rispetti, ci fu quella che si chiama una Call For Papers, ovvero un invito alla comunità ad inviare possibili articoli o presentazioni.
-L'invito era specificatamente mirato a [cercare i migliori talk che la comunità Electron aveva da offrire](https://archive.fo/MbXO6).
-Altro obbiettivo era quello della *diversità dei presentatori attraverso diverse dimensioni*.
+L'invito era specificatamente mirato a [cercare i migliori talk che la comunità Electron avesse da offrire](https://archive.fo/MbXO6).
+Altro obbiettivo era quello della *diversità dei presentatori su diverse dimensioni*.
 Qualunque cosa questa frase voglia dire.
 
 Al fine di garantire un'assenza di pregiudizi da parte dei revisori dei talk, la sottomissione delle proposte fu eseguita attraverso un processo *blind*, ovvero senza informazioni su chi fosse l'autore di un dato talk.
