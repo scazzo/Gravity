@@ -29,9 +29,7 @@ Come un alieno, appunto.
 O come la faccia di Barbara D'Urso a pomeriggio 5.
 Grazie al progresso scientifico e agli smartphone, il filtro alieno ora è alla portata di tutti.
 
-![Smarmella](http://www.gossipetv.com/wp-content/uploads/2016/06/barbara-durso-pomeriggio-5-300x194.png){: .center-image }
-<br/>
-*Duccio, apri tutto!*
+{% include image.html img="http://www.gossipetv.com/wp-content/uploads/2016/06/barbara-durso-pomeriggio-5-300x194.png" title="Duccio, apri tutto!" caption="*Duccio, apri tutto!*" %}
 
 Sul serio, quanto si deve essere rimossi dalla realtà per essere convinti che il filtro alieno
 renda le foto più belle?
@@ -41,9 +39,7 @@ Cazzo a volte su Instagram devo guardare il nome della persona per capire chi c'
 
 ## Il perchè
 
-![Utente medio di Snapchat](/assets/2018-01-27-filtro-alieno-alieni.jpg){: .center-image }
-<br/>
-*Utente medio di Snapchat*
+{% include image.html img="/assets/2018-01-27-filtro-alieno-alieni.jpg" title="Utente medio di Snapchat" caption="Utente medio di Snapchat" %}
 
 Ogni anno corriamo tutti a prendere l'ultimo modello di iPhone.
 Bene. Non vogliamo mica restare indietro con le ultime innovazioni tecnologiche.
