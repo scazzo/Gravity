@@ -14,7 +14,8 @@ Sì, sto parlando proprio di quello: il filtro alieno.
 
 ## Il Filtro Alieno
 
-![Filtro Alieno](/assets/2018-01-27-filtro-alieno.jpg)
+![Filtro Alieno](/assets/2018-01-27-filtro-alieno.jpg){: .center-image }
+<br/>
 *Il filtro alieno in tutta la sua gloria*
 
 Come tutti, ho amiche o conoscenti che pubblicano in continuo foto sui Socialz.
@@ -30,7 +31,8 @@ Come un alieno, appunto.
 O come la faccia di Barbara D'Urso a pomeriggio 5.
 Grazie al progresso scientifico e agli smartphone, il filtro alieno ora è alla portata di tutti.
 
-![Smarmella](http://www.gossipetv.com/wp-content/uploads/2016/06/barbara-durso-pomeriggio-5-300x194.png)
+![Smarmella](http://www.gossipetv.com/wp-content/uploads/2016/06/barbara-durso-pomeriggio-5-300x194.png){: .center-image }
+<br/>
 *Duccio, apri tutto!*
 
 Sul serio, quanto si deve essere rimossi dalla realtà per essere convinti che il filtro alieno
@@ -41,7 +43,7 @@ Cazzo a volte su Instagram devo guardare il nome della persona per capire chi c'
 
 ## Il perchè
 
-![Utente medio di Snapchat](/assets/2018-01-27-filtro-alieno-alieni.jpg)
+![Utente medio di Snapchat](/assets/2018-01-27-filtro-alieno-alieni.jpg){: .center-image }
 <br/>
 *Utente medio di Snapchat*
 
@@ -76,4 +78,4 @@ Forse la scienza è veramente andata troppo oltre questa volta.
 A volte un'immagine vale davvero più di mille parole.
 Quello che segue è il mio mockup per un nuovo filtro bellezza per Instagram:
 
-<img src="/assets/2018-01-27-filtro-alieno-forme-geometriche.jpg" alt="Filtro Geometrico" style="max-width: 500px;"/>
+<img src="/assets/2018-01-27-filtro-alieno-forme-geometriche.jpg" alt="Filtro Geometrico" style="max-width: 250px;" class="center-image" />
