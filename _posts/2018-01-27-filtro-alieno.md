@@ -76,3 +76,5 @@ A volte un'immagine vale davvero più di mille parole.
 Quello che segue è il mio mockup per un nuovo filtro bellezza per Instagram:
 
 <img src="/assets/2018-01-27-filtro-alieno-forme-geometriche.jpg" alt="Filtro Geometrico" style="max-width: 250px;" class="center-image" />
+
+Geometrico, preciso, senza rughe.
