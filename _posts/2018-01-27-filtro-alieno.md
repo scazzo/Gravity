@@ -14,9 +14,7 @@ Sì, sto parlando proprio di quello: il filtro alieno.
 
 ## Il Filtro Alieno
 
-![Filtro Alieno](/assets/2018-01-27-filtro-alieno.jpg){: .center-image }
-<br/>
-*Il filtro alieno in tutta la sua gloria*
+{% include image.html img="/assets/2018-01-27-filtro-alieno.jpg" title="Filtro Alieno" caption="Il filtro alieno in tutta la sua gloria" %}
 
 Come tutti, ho amiche o conoscenti che pubblicano in continuo foto sui Socialz.
 Come tutti, ho amiche o conoscenti che usano N applicazioni per applicare filtri "bellezza".
