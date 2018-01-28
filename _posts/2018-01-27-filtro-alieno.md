@@ -16,9 +16,12 @@ Sì, sto parlando proprio di quello: il filtro alieno.
 
 {% include image.html img="/assets/2018-01-27-filtro-alieno.jpg" title="Filtro Alieno" caption="Il filtro alieno in tutta la sua gloria" %}
 
-Come tutti, ho amiche o conoscenti che pubblicano in continuo foto sui Socialz.
+Come tutti, ho amiche o conoscenti che pubblicano in continuo foto sui socialz.
+
 Come tutti, ho amiche o conoscenti che usano N applicazioni per applicare filtri "bellezza".
+
 Come tutti, ho amiche o conoscenti che dovrebbero tagliarsi le falangi delle mani.
+
 Come tutti, ho un po' di odio per il genere umano.
 
 Il filtro alieno è quella cosa che avviene nelle soap opera scadenti,
@@ -52,17 +55,17 @@ Un aumento di megapixel tale da rendere le macchine fotografiche quasi obsolete.
 Spendiamo svariate centinaia di euri per avere le migliori specifiche tecniche.
 E poi cosa facciamo?
 Mettiamo le foto in formato Ritter Sport, quadrato pratico buono, su Instagram.
-Con i filtri, che non si sai mai che la realtà sia troppo reale.
+Con i filtri. Che non sia mai che la realtà sia troppo reale.
 Con le citazioni di Bukowski, perchè c'abbiamo la cultura.
 O forse ora va più di moda Fedez.
 
 Se il genere umano si fosse fermato ai filtri seppia, avrei potuto capire.
 Invece no.
 Tutti quei megapixel ci si stanno ritorcendo contro.
-Come per l'avvento del 4K nel mondo del porno, le fotocamere dei cellulari ora hanno
-abbastanza definizione da mostrare ogni piccola ruga, difetto o imperfezione
-dei nostri bei visini da social.
-Ed è così che qualche stagista a Snapchat ha dovuto passare la sua estate sviluppando il
+Il mondo dei social sta vedendo la stessa trasformazione che, nel passaggio da 240p a 4K,
+ha colpito il mondo del porno: le fotocamere dei cellulari ora hanno
+abbastanza definizione da mostrare ogni nostra piccola ruga, difetto o imperfezione.
+È per questo che qualche stagista a Snapchat ha dovuto passare la sua estate sviluppando il
 filtro alieno.
 
 Forse la scienza è veramente andata troppo oltre questa volta.
