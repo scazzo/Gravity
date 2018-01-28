@@ -3,8 +3,8 @@
     {% if include.url %}
     <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
     {% endif %}
-    {% if include.abs %}
-        <img src="{{ include.img }}" alt="{{ include.title }}"/>
+    {% if include.imgabs %}
+        <img src="{{ include.imgabs }}" alt="{{ include.title }}"/>
     {% else %}
         <img src="{{ site.url }}/{{ include.img }}" alt="{{ include.title }}"/>
     {% endif %}
